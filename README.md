@@ -7,7 +7,7 @@ Welcome to the "RFM Customer Segmentation and Cohort Analysis Project". It is th
 
 This is a project where we learn what RFM is. And we looked at how to implement RFM Analysis and Customer Segmentation using K-Means Clustering. We have also enhanced our Data Cleaning, Data Visualization and Exploratory Data Analysis capabilities. On the other hand, we created Cohort and Conducted Cohort Analysis.
 
-## [2. Fraud Detection Project](https://github.com/muhsinayaz/Capstone_Projects/tree/main/02-Churn%20Prediction_)
+## [2. Employee Loss Analysis Project](https://github.com/muhsinayaz/Capstone_Projects/tree/main/02-Churn%20Prediction_)
 
 
 Welcome to the "Employee Loss Analysis Project". This is the second project in the Graduation Project Series, where you can create your own classification models for various business environments.
